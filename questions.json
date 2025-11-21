@@ -645,6 +645,15 @@
         { "word": ["chết đi cho tội lỗi","sống lại với Chúa"], "point": 1 }
       ],
       "sample": "Mùa Phục sinh là thời gian tràn ngập hân hoan vui mừng vì:\n- Chúa Kitô đã chiến thắng sự chết để sống lại vinh hiển\n- Chúng ta được nên con Chúa, được bảo đảm gia nghiệp Nước Trời\n- Ta tin rằng nếu ta chết đi cho tội lỗi, ta cũng được sống lại với Chúa"
+    },
+    {
+      "text": "Thành lễ là gì?",
+      "keywords": [
+        { "word": ["tưởng niệm lễ Vượt Qua"], "point": 1 },
+        { "word": ["hiện tại hoá"], "point": 1 },
+        { "word": ["lễ hy sinh độc nhất"], "point": 1 }
+      ],
+      "sample": "Thánh lễ là cuộc tưởng niệm lễ Vượt Qua của Chúa Kitô, là hiện tại hoá và tiến dâng lễ hy sinh độc nhất của Người lên Chúa Cha trong Phụng vụ của Hội Thánh."
     }
   ]
 }
