@@ -19,7 +19,7 @@ body {
 }
 
 .quiz-box {
-  background: rgba(255, 255, 255, 0); /* số cuối = độ trong suốt */
+  background: linear-gradient(135deg, #e0f7fa, #ffffff); /* nền dịu, sáng */
   padding: 35px 40px;
   border-radius: 25px;
   box-shadow: 0 12px 25px rgba(0, 0, 0, 0.15);
