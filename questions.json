@@ -224,9 +224,9 @@
     {
       "text": "Nghi thức rửa chân diễn ra vào ngày nào trong Tuần Thánh?",
       "choices": {
-        "A": "Thứ Hai",
-        "B": "Thứ Ba",
-        "C": "Thứ Tứ",
+        "A": "Thứ Hai Tuần Thánh",
+        "B": "Thứ Ba Tuần Thánh",
+        "C": "Thứ Tư Tuần Thánh",
         "D": "Thứ Năm Tuần Thánh"
       },
       "correct": "D"
@@ -326,7 +326,7 @@
       "choices": {
         "A": "Thứ Hai sau lễ Chúa Giêsu Chịu Phép Rửa",
         "B": "Lễ Tro",
-        "C": "Lễ Chúa Thánh Thần Hiện Xuống",
+        "C": "Thứ Hai sau lễ Chúa Thánh Thần Hiện Xuống",
         "D": "Lễ Chúa Kitô Vua Vũ Trụ"
       },
       "correct": "A"
@@ -334,9 +334,9 @@
     {
       "text": "Giai đoạn 2 Mùa Thường Niên bắt đầu từ lễ nào?",
       "choices": {
-        "A": "Lễ Chúa Giêsu Chịu Phép Rửa",
+        "A": "Thứ Hai sau lễ Chúa Giêsu Chịu Phép Rửa",
         "B": "Lễ Tro",
-        "C": "Thứ 2 sau lễ Chúa Thánh Thần Hiện Xuống",
+        "C": "Thứ Hai sau lễ Chúa Thánh Thần Hiện Xuống",
         "D": "Lễ Chúa Kitô Vua Vũ Trụ"
       },
       "correct": "C"
@@ -382,7 +382,7 @@
       "correct": "D"
     },
     {
-      "text": "Mùa Thường Niên có bị gián đoạn bởi mùa nào?",
+      "text": "Mùa Thường Niên bị gián đoạn bởi mùa nào?",
       "choices": {
         "A": "Mùa Giáng Sinh",
         "B": "Mùa Chay và Mùa Phục Sinh",
@@ -392,12 +392,12 @@
       "correct": "B"
     },
     {
-      "text": "Ngày 2/11 được gọi là gì?",
+      "text": "Ngày 2/11 là ngày lễ gì?",
       "choices": {
         "A": "Lễ Các Thánh Tử Đạo",
         "B": "Lễ Các Đẳng Linh Hồn",
         "C": "Lễ Các Thánh Nam Nữ",
-        "D": "Lễ Hiện Xuống"
+        "D": "Lễ Đức Mẹ Mân Côi"
       },
       "correct": "B"
     },
@@ -412,7 +412,7 @@
       "correct": "C"
     },
     {
-      "text": "Người tín hữu tôn kính các thánh vì…",
+      "text": "Người tín hữu tôn kính các thánh vì:",
       "choices": {
         "A": "Các thánh có quyền lực ngang Thiên Chúa",
         "B": "Các thánh có thể ban ơn riêng",
@@ -442,7 +442,7 @@
       "correct": "C"
     },
     {
-      "text": "Lễ Đức Mẹ Vô Nhiễm Nguyên Tội được cử hành vào:",
+      "text": "Lễ Đức Mẹ Vô Nhiễm Nguyên Tội được cử hành vào ngày:",
       "choices": {
         "A": "1/1",
         "B": "15/8",
@@ -452,7 +452,7 @@
       "correct": "D"
     },
     {
-      "text": "Ngày mừng Lễ Đức Mẹ Hồn Xác Lên Trời là:",
+      "text": "Ngày mừng Lễ Đức Mẹ Hồn Xác Lên Trời là ngày:",
       "choices": {
         "A": "1/1",
         "B": "15/8",
@@ -482,7 +482,7 @@
       "correct": "C"
     },
     {
-      "text": "Lễ Thánh Giuse được cử hành vào:",
+      "text": "Lễ Thánh Giuse được cử hành vào ngày:",
       "choices": {
         "A": "19/3",
         "B": "24/6",
@@ -492,7 +492,7 @@
       "correct": "A"
     },
     {
-      "text": "Lễ Sinh nhật Gioan Tẩy Giả được cử hành vào:",
+      "text": "Lễ Sinh nhật Gioan Tẩy Giả được cử hành vào ngày:",
       "choices": {
         "A": "19/3",
         "B": "24/6",
@@ -502,7 +502,7 @@
       "correct": "B"
     },
     {
-      "text": "Lễ Thánh Phê-rô, Phao-lô được cử hành vào:",
+      "text": "Lễ Thánh Phê-rô, Phao-lô được cử hành vào ngày:",
       "choices": {
         "A": "19/3",
         "B": "24/6",
@@ -512,7 +512,7 @@
       "correct": "C"
     },
     {
-      "text": "Lễ Các Thánh Nam Nữ được cử hành vào:",
+      "text": "Lễ Các Thánh Nam Nữ được cử hành vào ngày:",
       "choices": {
         "A": "19/3",
         "B": "24/6",
