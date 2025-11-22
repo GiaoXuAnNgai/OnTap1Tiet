@@ -353,7 +353,7 @@ function showResults(choiceScore, essayScore, total) {
       <button class="btn btn-secondary" onclick="location.reload()">Làm lại</button>
     </div>
   `;
-
+  sendData(total);
   winSound.play();
 }
 
@@ -367,5 +367,17 @@ function startQuiz() {
   startGlobalTimer();
 }
 
+// ====================== Nạp dữ liệu bài thi lên driver =========================
+const API =
+  'https://script.google.com/macros/s/AKfycbyqz_oljaPi6khvxx7EW8YC6GDRaXV2jw_E26RPgQWiBD9rSKEAECyeJ5lagfrBRdxS/exec'; // dán URL ở đây
+
+function sendData(totalScore) {
+  fetch(API, {
+    method: 'POST',
+    body: JSON.stringify({ user: "anonymos", score: totalScore }),
+  })
+    .then(r => r.json());
+}
 // ====================== BẮT ĐẦU CHƯƠNG TRÌNH =========================
 loadData();
+
